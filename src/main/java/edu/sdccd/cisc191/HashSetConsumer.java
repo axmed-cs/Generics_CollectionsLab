@@ -1,6 +1,5 @@
 package edu.sdccd.cisc191;
 
-import java.util.HashMap;
 import java.util.HashSet;
 
 public class HashSetConsumer {

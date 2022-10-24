@@ -12,7 +12,6 @@ private ArrayList<String> list;
 
     public String consume()
     {
-
         return list.remove(0);
     }
 
